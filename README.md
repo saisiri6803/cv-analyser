@@ -8,13 +8,13 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 ## 🔴 Live Demo
-**[resumematch.vercel.app](https://your-actual-url.vercel.app)**
+**[resumematch.vercel.app](https://resume-analyzer-tau-jade.vercel.app/)**
 
 ---
 
 ## 📸 Screenshot
 <!-- Add a screenshot after deploying -->
-![ResumeMatch Screenshot](./public/screenshot.png)
+![ResumeMatch Screenshot](./public/image.png)
 
 ---
 
@@ -149,6 +149,6 @@ MIT License — free to use, modify and distribute.
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/saisiri6803)
-- LinkedIn: [yourprofile](https://linkedin.com/in/sai-sirisha-sabbella)
+**Sai Sirisha Sabbella**
+- GitHub: [@saisiri6803](https://github.com/saisiri6803)
+- LinkedIn: [sai-sirisha-sabbella](https://linkedin.com/in/sai-sirisha-sabbella)
