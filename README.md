@@ -1,4 +1,4 @@
-# 🎯 ResumeMatch — AI Resume Analyzer
+#  ResumeMatch — AI Resume Analyzer
 
 > Upload your resume, paste a job description, get instant AI-powered ATS analysis with section-level feedback.
 
@@ -7,33 +7,33 @@
 ![Vercel](https://img.shields.io/badge/Deployed-Vercel-black?style=flat-square&logo=vercel)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
-## 🔴 Live Demo
+##  Live Demo
 **[resumematch.vercel.app](https://resume-analyzer-tau-jade.vercel.app/)**
 
 ---
 
-## 📸 Screenshot
+##  Screenshot
 <!-- Add a screenshot after deploying -->
 ![ResumeMatch Screenshot](./public/image.png)
 
 ---
 
-## ✨ Features
+##  Features
 
-- 📄 PDF & TXT resume upload with drag and drop
-- 🤖 AI-powered match scoring (0–100%)
-- ✅ Matched skills detection with synonym awareness
-- ❌ Missing skills gap analysis  
-- 💡 ATS keyword suggestions
-- 📊 ATS readability score with breakdown
-- 🔍 Section-level analysis — Summary, Skills, Experience, Projects
-- ✍️ AI-generated rewrite suggestions per section
-- 🌐 Works for ALL roles — Software, HR, Finance, Marketing, Sales, Design and more
-- ⬇️ Downloadable analysis report
+-  PDF & TXT resume upload with drag and drop
+-  AI-powered match scoring (0–100%)
+-  Matched skills detection with synonym awareness
+-  Missing skills gap analysis  
+-  ATS keyword suggestions
+-  ATS readability score with breakdown
+-  Section-level analysis — Summary, Skills, Experience, Projects
+-  AI-generated rewrite suggestions per section
+-  Works for ALL roles — Software, HR, Finance, Marketing, Sales, Design and more
+-  Downloadable analysis report
 
 ---
 
-## 🧠 Gen AI Skills Demonstrated
+##  Gen AI Skills Demonstrated
 
 | Skill | How it's used |
 |---|---|
@@ -47,7 +47,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -59,7 +59,7 @@
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 \`\`\`
 User uploads PDF
@@ -68,12 +68,12 @@ User uploads PDF
       ↓
 /api/analyze  →  Groq LLaMA 3.3 70B  →  structured JSON
       ↓
-React UI renders match score, skills, section feedback
+React UI renders match score, skills, and section feedback
 \`\`\`
 
 ---
 
-## 🚀 Run Locally
+##  Run Locally
 
 ### 1. Clone the repo
 \`\`\`bash
@@ -101,7 +101,7 @@ Open [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 \`\`\`
 resume-analyzer/
@@ -123,7 +123,7 @@ resume-analyzer/
 
 ---
 
-## 🔑 Environment Variables
+##  Environment Variables
 
 | Variable | Description | Where to get |
 |---|---|---|
@@ -131,7 +131,7 @@ resume-analyzer/
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repo
 2. Create a branch — `git checkout -b feature/your-feature`
@@ -141,13 +141,13 @@ resume-analyzer/
 
 ---
 
-## 📄 License
+##  License
 
-MIT License — free to use, modify and distribute.
+MIT License — free to use, modify, and distribute.
 
 ---
 
-## 👤 Author
+##  Author
 
 **Sai Sirisha Sabbella**
 - GitHub: [@saisiri6803](https://github.com/saisiri6803)
